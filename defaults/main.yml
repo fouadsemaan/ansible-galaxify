@@ -2,7 +2,7 @@
 galaxify_ver : '1.0'
 
 # defaults file for galaxify
-galaxify_mitlicense_copyright_year : '2016'
+galaxify_mitlicense_copyright_year : '2017'
 galaxify_mitlicense_holder : 'Fouad Semaan'
 galaxify_mitlicense_holder_email: 'semaanfouad@gmail.com'
 
